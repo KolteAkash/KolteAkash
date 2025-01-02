@@ -6,8 +6,6 @@ Feel free to reach out to me at [akashkolte240899@gmail.com](mailto:akashkolte24
 
 ---
 
----
-
 ## 🌐 Socials:
 - [Instagram](https://www.instagram.com/_akash_kolte)  
 - [LinkedIn](https://www.linkedin.com/in/akash-kolte-029382230)
@@ -23,7 +21,7 @@ Feel free to reach out to me at [akashkolte240899@gmail.com](mailto:akashkolte24
 
 ---
 ## Project Links:
--[ak-medical](https://ak-medical.netlify.app)
--[portfolio](https://akashkolte-portfolio.netlify.app)
+- [ak-medical](https://ak-medical.netlify.app)
+- [portfolio](https://akashkolte-portfolio.netlify.app)
 
 Feel free to connect and collaborate!
