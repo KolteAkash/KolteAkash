@@ -1,10 +1,10 @@
 ## 💫 About Me
 
 👋 Hi there! I'm **Akash Kolte**,
-a passionate **software developer** with a strong focus on **SpringBoot** and **Node.js** and **React.js**.  
-I’m currently exploring **full-stack development** and creating impactful solutions using modern technologies.  
-Feel free to reach out to me at [akashkolte240899@gmail.com](mailto:akashkolte240899@gmail.com) 
-– Let’s collaborate and build something amazing!
+-- a passionate **software developer** with a strong focus on **SpringBoot** and **Node.js** and **React.js**.
+-- I’m currently exploring **full-stack development** and creating impactful solutions using modern technologies.  
+-- Feel free to reach out to me at [akashkolte240899@gmail.com](mailto:akashkolte240899@gmail.com) 
+–-Let’s collaborate and build something amazing!
 
 ---
 
