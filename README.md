@@ -10,8 +10,8 @@
 <br>Let’s connect and create something amazing together!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_akash_kolte._._/?igsh=MWVrcnFqeWtwdmFhMg%3D%3D)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kolte-029382230)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_akash_kolte?igsh=MWVrcnFqeWtwdmFhMg%3D%3D)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kolte-029382230)
+
 
 
 # 💻 Tech Stack:
