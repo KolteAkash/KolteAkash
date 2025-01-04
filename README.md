@@ -9,9 +9,10 @@ Always eager to explore, learn, and collaborate on exciting new projects!
 Let’s connect and create something amazing together!
 
 🌐 Socials
-🌟 Instagram: _akash_kolte
-💼 LinkedIn: Akash Kolte
-
+Instagram:
+_akash_kolte
+LinkedIn:
+Akash Kolte
 💻 Tech Stack
 Languages
 Java
@@ -26,7 +27,8 @@ React Router
 Database
 MySQL
 Tools
-HTML5 & CSS3
+HTML5
+CSS3
 Windows Terminal
 Deployment Platforms
 Netlify
