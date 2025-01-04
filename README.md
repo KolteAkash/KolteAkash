@@ -1,46 +1,25 @@
 💫 About Me
-👋 Hi there! I'm Akash Kolte,
-a passionate Software Developer specializing in Spring Boot, Node.js, and React.js.
+<br>👋 Hi there! I'm Akash Kolte,
+<br>a passionate Software Developer specializing in Spring Boot, Node.js, and React.js.
 
-🚀 What I Do:
-Currently diving deep into Full-Stack Development, crafting impactful and scalable solutions with modern technologies.
-Always eager to explore, learn, and collaborate on exciting new projects!
-📩 Feel free to reach out at akashkolte240899@gmail.com.
-Let’s connect and create something amazing together!
+<br>🚀 What I Do:
+Currently diving deep into Full-Stack Development, <br>crafting impactful and scalable solutions with modern technologies.
+<br>Always eager to explore, learn, and collaborate on exciting new projects!
+<br>📩 Feel free to reach out at akashkolte240899@gmail.com.
+<br>Let’s connect and create something amazing together!
 
-🌐 Socials
-Instagram:
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram Icon" width="25" style="vertical-align:middle;">
-_akash_kolte
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_akash_kolte._._/?igsh=MWVrcnFqeWtwdmFhMg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-kolte-029382230) 
 
-LinkedIn:
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="LinkedIn Icon" width="25" style="vertical-align:middle;">
-Akash Kolte
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-💻 Tech Stack
-Languages
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java Icon" width="25" style="vertical-align:middle;"> Java
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript Icon" width="25" style="vertical-align:middle;"> JavaScript
-Frameworks & Libraries
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Spring Boot Icon" width="25" style="vertical-align:middle;"> Spring Boot
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js Icon" width="25" style="vertical-align:middle;"> Node.js
-<img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="Express.js Icon" width="25" style="vertical-align:middle;"> Express.js
-<img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React Icon" width="25" style="vertical-align:middle;"> React.js
-<img src="https://vitejs.dev/logo.svg" alt="Vite Icon" width="25" style="vertical-align:middle;"> Vite
-<img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React Router Icon" width="25" style="vertical-align:middle;"> React Router
-Database
-<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL Icon" width="25" style="vertical-align:middle;"> MySQL
-Tools
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5 Icon" width="25" style="vertical-align:middle;"> HTML5
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3 Icon" width="25" style="vertical-align:middle;"> CSS3
-<img src="https://cdn-icons-png.flaticon.com/512/882/882710.png" alt="Windows Terminal Icon" width="25" style="vertical-align:middle;"> Windows Terminal
-Deployment Platforms
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Netlify_logo.svg/120px-Netlify_logo.svg.png" alt="Netlify Icon" width="25" style="vertical-align:middle;"> Netlify
-📂 Projects
-🌐 ak-medical
-A feature-rich medical application designed for efficient healthcare solutions.
+<br>📂 Projects  
+<br>🌐 <a href="https://ak-medical.netlify.app" target="_blank" style="text-decoration: none; color: blue;">ak-medical</a>  
+<br>A feature-rich medical application designed for efficient healthcare solutions.
 
-🌐 Portfolio
-Showcasing my work and journey as a developer.
+<br>🌐 <a href="https://akashkolte-portfolio.netlify.app" target="_blank" style="text-decoration: none; color: blue;">Portfolio</a>  
+<br>Showcasing my work and journey as a developer.
 
-Let’s collaborate and bring ideas to life! ✨
+
+<br>Let’s collaborate and bring ideas to life! ✨
