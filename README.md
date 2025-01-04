@@ -1,29 +1,40 @@
-## 💫 About Me
+💫 About Me
+👋 Hi there! I'm Akash Kolte,
+a passionate Software Developer specializing in Spring Boot, Node.js, and React.js.
 
-👋 Hi there! I'm **Akash Kolte**,
--- a passionate **software developer** with a strong focus on **SpringBoot** and **Node.js** and **React.js**.
--- I’m currently exploring **full-stack development** and creating impactful solutions using modern technologies.  
--- Feel free to reach out to me at [akashkolte240899@gmail.com](mailto:akashkolte240899@gmail.com) 
-–-Let’s collaborate and build something amazing!
+🚀 What I Do:
+Currently diving deep into Full-Stack Development, crafting impactful and scalable solutions with modern technologies.
+Always eager to explore, learn, and collaborate on exciting new projects!
+📩 Feel free to reach out at akashkolte240899@gmail.com.
+Let’s connect and create something amazing together!
 
----
+🌐 Socials
+🌟 Instagram: _akash_kolte
+💼 LinkedIn: Akash Kolte
 
-## 🌐 Socials:
-- [Instagram](https://www.instagram.com/_akash_kolte)  
-- [LinkedIn](https://www.linkedin.com/in/akash-kolte-029382230)
+💻 Tech Stack
+Languages
+Java
+JavaScript
+Frameworks & Libraries
+Spring Boot
+Node.js
+Express.js
+React.js
+Vite
+React Router
+Database
+MySQL
+Tools
+HTML5 & CSS3
+Windows Terminal
+Deployment Platforms
+Netlify
+📂 Projects
+🌐 ak-medical
+A feature-rich medical application designed for efficient healthcare solutions.
 
----
+🌐 Portfolio
+Showcasing my work and journey as a developer.
 
-## 💻 Tech Stack:
-- **Languages**: Java, JavaScript
-- **Frameworks**: Spring, NodeJS, Express.js, React, Vite, React Router
-- **Database**: MySQL
-- **Tools**: CSS3, HTML5, Windows Terminal
-- **Deployment**: Netlify
-
----
-## Project Links:
-- [ak-medical](https://ak-medical.netlify.app)
-- [portfolio](https://akashkolte-portfolio.netlify.app)
-
-Feel free to connect and collaborate!
+Let’s collaborate and bring ideas to life! ✨
