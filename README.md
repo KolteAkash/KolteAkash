@@ -25,4 +25,4 @@
 <br>Showcasing my work and journey as a developer.
 
 
-<br>Let’s collaborate and bring ideas to life! ✨
+<br>Let’s collaborate and bring ideas to life!✨
