@@ -24,5 +24,8 @@
 <br>🌐 <a href="https://akashkolte-portfolio.netlify.app" target="_blank" style="text-decoration: none; color: blue;">Portfolio</a>  
 <br>Showcasing my work and journey as a developer.
 
+<br>🌐 <a href="https://akashkolte-dev.netlify.app" target="_blank" style="text-decoration: none; color: blue;">Portfolio-2.0</a>  
+<br>Showcasing my work and journey as a developer.
+
 
 <br>Let’s collaborate and bring ideas to life!✨
