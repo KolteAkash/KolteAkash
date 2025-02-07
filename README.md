@@ -25,7 +25,8 @@
 <br>Showcasing my work and journey as a developer.
 
 <br>🌐 <a href="https://akashkolte-dev.netlify.app" target="_blank" style="text-decoration: none; color: blue;">Portfolio-2.0</a>  
-<br>Showcasing my work and journey as a developer.
+<br>Built a sleek, responsive, and professional developer portfolio using React and Tailwind CSS, featuring smooth 3D animations for an engaging user experience.
+
 
 
 <br>Let’s collaborate and bring ideas to life!✨
